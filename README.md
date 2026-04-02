@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devesh Kumar</h1>
-<h3 align="center">🚀 Frontend Developer | Python & Data Analytics Enthusiast 🇮🇳</h3>
+<h3 align="center">🚀 Python & Data Analytics Enthusiast | Frontend Developer | Problem Solver 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devesh-rajput&label=Profile%20views&color=0e75b6&style=flat" />
