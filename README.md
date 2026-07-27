@@ -9,7 +9,6 @@
 
 ### 🧑‍💻 About Me
 - 🌱 I’m currently learning **Backend Development, Data Analytics, Scalable System Design**
-- 👨‍💻 Portfolio: https://portfolio-devesh-19.vercel.app/
 - 💬 Ask me about **Frontend Architecture, React, Python**
 - ⚡ Fun fact: **I treat bugs as puzzles, not problems 🧩**
 
